@@ -1,4 +1,5 @@
 privacy policy
+
 We thank users for using Strey, we have read the privacy policy, we confirm that all stored information is completely secure and you have the right to request deletion of such data by contacting us.
 
 Data and information we require from users:
